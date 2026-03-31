@@ -1,0 +1,78 @@
+22:22:35  INFO     [main]  ============================================================
+22:22:35  INFO     [main]  MLBB Draft AI v2 starting
+22:22:35  INFO     [main]  Mode=mock FPS=10 Conf=0.60 Window=7
+22:22:35  INFO     [main]  ============================================================
+22:22:35  INFO     [data.hero_db]  HeroDatabase loaded 132 heroes (patch=1.9.x, errors=0)
+22:22:35  INFO     [main]  Database: <HeroDatabase heroes=132 patch=1.9.x>
+22:22:35  INFO     [capture.screen_capture]  ScreenCapturer started — region=Region(x=0, y=0, width=1280, height=720) target_fps=10
+22:22:35  INFO     [vision.hero_detector]  Using MockDetector (demo mode).
+22:22:35  INFO     [main]  CVThread ready. Detector=MockDetector, SlotCfg=1280x720, Threshold=0.60, Window=7
+22:22:37  INFO     [main]  Overlay launched. Drag to reposition. Right-click to hide. Ctrl-C to quit.
+22:22:37  INFO     [capture.screen_capture]  Capture backend: mss
+22:22:37  INFO     [main]  Draft [BAN] — Ally:[]  Enemy:[]  Bans:['Ling']
+22:22:37  INFO     [main]    #1 Atlas            [S] score=0.660 conf=66% risk=LOW  — fills missing Tank slot
+22:22:37  INFO     [main]    #2 Khufra           [S] score=0.658 conf=66% risk=LOW  — fills missing Tank slot
+22:22:37  INFO     [main]    #3 Esmeralda        [A] score=0.619 conf=62% risk=LOW  — fills missing Tank slot
+22:22:45  INFO     [main]  Draft [BAN] — Ally:[]  Enemy:[]  Bans:['Ling', 'Fanny']
+22:22:45  INFO     [main]    #1 Atlas            [S] score=0.660 conf=66% risk=LOW  — fills missing Tank slot
+22:22:45  INFO     [main]    #2 Khufra           [S] score=0.658 conf=66% risk=LOW  — fills missing Tank slot
+22:22:45  INFO     [main]    #3 Esmeralda        [A] score=0.619 conf=62% risk=LOW  — fills missing Tank slot
+22:23:02  INFO     [main]  Draft [EARLY] — Ally:['Chou']  Enemy:['Gusion']  Bans:['Ling', 'Fanny']
+22:23:02  INFO     [main]    #1 Khufra           [S] score=0.785 conf=78% risk=LOW  — fills missing Tank slot; hard counters enemy lineup
+22:23:02  INFO     [main]    #2 Gloo             [B] score=0.728 conf=73% risk=LOW  — fills missing Tank slot; hard counters enemy lineup
+22:23:02  INFO     [main]    #3 Akai             [B] score=0.725 conf=72% risk=LOW  — fills missing Tank slot; hard counters enemy lineup
+22:23:06  INFO     [main]  Draft [EARLY] — Ally:['Chou']  Enemy:['Gusion', 'Khufra']  Bans:['Ling', 'Fanny', 'Atlas']
+22:23:06  INFO     [main]    #1 Diggie           [S] score=0.663 conf=66% risk=LOW  — fills missing Support slot; favorable matchup vs enemies
+22:23:06  INFO     [main]    #2 Gloo             [B] score=0.661 conf=66% risk=LOW  — fills missing Tank slot; favorable matchup vs enemies
+22:23:06  INFO     [main]    #3 Akai             [B] score=0.658 conf=66% risk=LOW  — fills missing Tank slot; favorable matchup vs enemies
+22:23:10  INFO     [main]  Draft [EARLY] — Ally:['Chou', 'Diggie']  Enemy:['Gusion', 'Khufra']  Bans:['Ling', 'Fanny', 'Atlas']
+22:23:10  INFO     [main]    #1 Gloo             [B] score=0.661 conf=66% risk=LOW  — fills missing Tank slot; favorable matchup vs enemies
+22:23:10  INFO     [main]    #2 Akai             [B] score=0.658 conf=66% risk=LOW  — fills missing Tank slot; favorable matchup vs enemies
+22:23:10  INFO     [main]    #3 Valentina        [A] score=0.653 conf=65% risk=LOW  — fills missing Mage slot; favorable matchup vs enemies
+22:23:16  INFO     [main]  Draft [MID] — Ally:['Chou', 'Diggie', 'Granger']  Enemy:['Gusion', 'Khufra', 'Layla']  Bans:['Ling', 'Fanny', 'Atlas']
+22:23:16  INFO     [main]    #1 Edith            [A] score=0.598 conf=60% risk=LOW  — fills missing Tank slot
+22:23:16  INFO     [main]    #2 Valentina        [A] score=0.588 conf=59% risk=LOW  — fills missing Mage slot
+22:23:16  INFO     [main]    #3 Selena           [A] score=0.575 conf=57% risk=LOW  — fills missing Assassin slot
+22:23:22  INFO     [main]  Draft [LATE] — Ally:['Chou', 'Diggie', 'Granger', 'Karrie']  Enemy:['Gusion', 'Khufra', 'Layla', 'Esmeralda']  Bans:['Ling', 'Fanny', 'Atlas']
+22:23:22  INFO     [main]    #1 Lunox            [A] score=0.569 conf=57% risk=LOW  — fills missing Mage slot
+22:23:22  INFO     [main]    #2 Edith            [A] score=0.539 conf=54% risk=LOW  — fills missing Tank slot
+22:23:22  INFO     [main]    #3 Valentina        [A] score=0.531 conf=53% risk=LOW  — fills missing Mage slot
+22:23:28  INFO     [main]  Draft [LATE] — Ally:['Chou', 'Diggie', 'Granger', 'Karrie', 'Yve']  Enemy:['Gusion', 'Khufra', 'Layla', 'Esmeralda', 'Lancelot']  Bans:['Ling', 'Fanny', 'Atlas', 'Phoveus']
+22:23:28  INFO     [main]    #1 Gloo             [B] score=0.562 conf=56% risk=LOW  — fills missing Tank slot; favorable matchup vs enemies
+22:23:28  INFO     [main]    #2 Edith            [A] score=0.524 conf=52% risk=LOW  — fills missing Tank slot
+22:23:28  INFO     [main]    #3 Selena           [A] score=0.514 conf=51% risk=LOW  — fills missing Assassin slot
+22:25:11  INFO     [main]  ============================================================
+22:25:11  INFO     [main]  MLBB Draft AI v2 starting
+22:25:11  INFO     [main]  Mode=mock FPS=10 Conf=0.60 Window=7
+22:25:11  INFO     [main]  ============================================================
+22:25:11  INFO     [data.hero_db]  HeroDatabase loaded 132 heroes (patch=1.9.x, errors=0)
+22:25:11  INFO     [main]  Database: <HeroDatabase heroes=132 patch=1.9.x>
+22:25:11  INFO     [capture.screen_capture]  ScreenCapturer started — region=Region(x=0, y=0, width=1280, height=720) target_fps=10
+22:25:11  INFO     [vision.hero_detector]  Using MockDetector (demo mode).
+22:25:11  INFO     [main]  CVThread ready. Detector=MockDetector, SlotCfg=1280x720, Threshold=0.60, Window=7
+22:25:12  INFO     [main]  Overlay launched. Drag to reposition. Right-click to hide. Ctrl-C to quit.
+22:25:12  INFO     [capture.screen_capture]  Capture backend: mss
+22:25:12  INFO     [main]  Draft [BAN] — Ally:[]  Enemy:[]  Bans:['Ling']
+22:25:12  INFO     [main]    #1 Atlas            [S] score=0.660 conf=66% risk=LOW  — fills missing Tank slot
+22:25:12  INFO     [main]    #2 Khufra           [S] score=0.658 conf=66% risk=LOW  — fills missing Tank slot
+22:25:12  INFO     [main]    #3 Esmeralda        [A] score=0.619 conf=62% risk=LOW  — fills missing Tank slot
+22:25:15  INFO     [main]  Draft [BAN] — Ally:[]  Enemy:[]  Bans:['Ling', 'Fanny']
+22:25:15  INFO     [main]    #1 Atlas            [S] score=0.660 conf=66% risk=LOW  — fills missing Tank slot
+22:25:15  INFO     [main]    #2 Khufra           [S] score=0.658 conf=66% risk=LOW  — fills missing Tank slot
+22:25:15  INFO     [main]    #3 Esmeralda        [A] score=0.619 conf=62% risk=LOW  — fills missing Tank slot
+22:25:19  INFO     [main]  Draft [EARLY] — Ally:['Chou']  Enemy:['Gusion']  Bans:['Ling', 'Fanny']
+22:25:19  INFO     [main]    #1 Khufra           [S] score=0.785 conf=78% risk=LOW  — fills missing Tank slot; hard counters enemy lineup
+22:25:19  INFO     [main]    #2 Gloo             [B] score=0.728 conf=73% risk=LOW  — fills missing Tank slot; hard counters enemy lineup
+22:25:19  INFO     [main]    #3 Akai             [B] score=0.725 conf=72% risk=LOW  — fills missing Tank slot; hard counters enemy lineup
+22:25:30  INFO     [main]  Draft [EARLY] — Ally:['Chou']  Enemy:['Gusion', 'Khufra']  Bans:['Ling', 'Fanny', 'Atlas']
+22:25:30  INFO     [main]    #1 Diggie           [S] score=0.663 conf=66% risk=LOW  — fills missing Support slot; favorable matchup vs enemies
+22:25:30  INFO     [main]    #2 Gloo             [B] score=0.661 conf=66% risk=LOW  — fills missing Tank slot; favorable matchup vs enemies
+22:25:30  INFO     [main]    #3 Akai             [B] score=0.658 conf=66% risk=LOW  — fills missing Tank slot; favorable matchup vs enemies
+22:25:45  INFO     [main]  Draft [EARLY] — Ally:['Chou', 'Diggie']  Enemy:['Gusion', 'Khufra']  Bans:['Ling', 'Fanny', 'Atlas']
+22:25:45  INFO     [main]    #1 Gloo             [B] score=0.661 conf=66% risk=LOW  — fills missing Tank slot; favorable matchup vs enemies
+22:25:45  INFO     [main]    #2 Akai             [B] score=0.658 conf=66% risk=LOW  — fills missing Tank slot; favorable matchup vs enemies
+22:25:45  INFO     [main]    #3 Valentina        [A] score=0.653 conf=65% risk=LOW  — fills missing Mage slot; favorable matchup vs enemies
+22:25:52  INFO     [main]  Draft [MID] — Ally:['Chou', 'Diggie', 'Granger']  Enemy:['Gusion', 'Khufra', 'Layla']  Bans:['Ling', 'Fanny', 'Atlas']
+22:25:52  INFO     [main]    #1 Edith            [A] score=0.598 conf=60% risk=LOW  — fills missing Tank slot
+22:25:52  INFO     [main]    #2 Valentina        [A] score=0.588 conf=59% risk=LOW  — fills missing Mage slot
+22:25:52  INFO     [main]    #3 Selena           [A] score=0.575 conf=57% risk=LOW  — fills missing Assassin slot

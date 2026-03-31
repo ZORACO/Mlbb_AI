@@ -1,0 +1,2162 @@
+{
+  "meta": {
+    "version": "2.0.0",
+    "patch": "1.9.x",
+    "total_heroes": 132,
+    "last_updated": "2026-03-31"
+  },
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Miya",
+      "role": "Marksman",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 2,
+      "name": "Balmond",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 3,
+      "name": "Saber",
+      "role": "Assassin",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 4,
+      "name": "Alice",
+      "role": "Tank",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 5,
+      "name": "Nana",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 6,
+      "name": "Tigreal",
+      "role": "Tank",
+      "counters": [
+        "Kagura",
+        "Diggie"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya",
+        "Granger"
+      ],
+      "tags": [
+        "engage",
+        "cc",
+        "frontline"
+      ],
+      "win_rate": 0.48,
+      "ban_rate": 0.08,
+      "pick_rate": 0.25,
+      "tier": "B"
+    },
+    {
+      "id": 7,
+      "name": "Alucard",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 8,
+      "name": "Karina",
+      "role": "Assassin",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 9,
+      "name": "Akai",
+      "role": "Tank",
+      "counters": [
+        "Diggie"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Ling"
+      ],
+      "tags": [
+        "cc",
+        "engage",
+        "tank"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.12,
+      "pick_rate": 0.18,
+      "tier": "B"
+    },
+    {
+      "id": 10,
+      "name": "Franco",
+      "role": "Tank",
+      "counters": [
+        "Diggie",
+        "Chou"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya",
+        "Granger"
+      ],
+      "tags": [
+        "hook",
+        "cc",
+        "engage"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.2,
+      "pick_rate": 0.17,
+      "tier": "B"
+    },
+    {
+      "id": 11,
+      "name": "Bane",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 12,
+      "name": "Bruno",
+      "role": "Marksman",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 13,
+      "name": "Clint",
+      "role": "Marksman",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 14,
+      "name": "Rafaela",
+      "role": "Support",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 15,
+      "name": "Eudora",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 16,
+      "name": "Zilong",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 17,
+      "name": "Fanny",
+      "role": "Assassin",
+      "counters": [
+        "Khufra",
+        "Kaja",
+        "Selena"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya",
+        "Lesley"
+      ],
+      "tags": [
+        "cable",
+        "mobile",
+        "high-skill"
+      ],
+      "win_rate": 0.49,
+      "ban_rate": 0.45,
+      "pick_rate": 0.1,
+      "tier": "S"
+    },
+    {
+      "id": 18,
+      "name": "Layla",
+      "role": "Marksman",
+      "counters": [
+        "Gusion",
+        "Lancelot",
+        "Helcurt"
+      ],
+      "strong_against": [
+        "Uranus",
+        "Esmeralda"
+      ],
+      "tags": [
+        "long-range",
+        "poke",
+        "squishy"
+      ],
+      "win_rate": 0.49,
+      "ban_rate": 0.05,
+      "pick_rate": 0.3,
+      "tier": "B"
+    },
+    {
+      "id": 19,
+      "name": "Minotaur",
+      "role": "Tank",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 20,
+      "name": "Lolita",
+      "role": "Support",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 21,
+      "name": "Hayabusa",
+      "role": "Assassin",
+      "counters": [
+        "Khufra",
+        "Franco"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya"
+      ],
+      "tags": [
+        "mobile",
+        "burst",
+        "high-skill"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.2,
+      "pick_rate": 0.13,
+      "tier": "B"
+    },
+    {
+      "id": 22,
+      "name": "Freya",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 23,
+      "name": "Gord",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 24,
+      "name": "Natalia",
+      "role": "Assassin",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 25,
+      "name": "Kagura",
+      "role": "Mage",
+      "counters": [
+        "Lancelot",
+        "Gusion",
+        "Helcurt"
+      ],
+      "strong_against": [
+        "Tigreal",
+        "Khufra"
+      ],
+      "tags": [
+        "poke",
+        "burst",
+        "mobile"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.29,
+      "pick_rate": 0.14,
+      "tier": "A"
+    },
+    {
+      "id": 26,
+      "name": "Chou",
+      "role": "Fighter",
+      "counters": [
+        "Esmeralda",
+        "Uranus"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Hayabusa",
+        "Lancelot"
+      ],
+      "tags": [
+        "cc",
+        "mobile",
+        "durable"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.28,
+      "pick_rate": 0.2,
+      "tier": "A"
+    },
+    {
+      "id": 27,
+      "name": "Sun",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 28,
+      "name": "Alpha",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 29,
+      "name": "Ruby",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 30,
+      "name": "Yi Sun-shin",
+      "role": "Assassin",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 31,
+      "name": "Moskov",
+      "role": "Marksman",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 32,
+      "name": "Johnson",
+      "role": "Tank",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 33,
+      "name": "Cyclops",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 34,
+      "name": "Estes",
+      "role": "Support",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 35,
+      "name": "Hilda",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 36,
+      "name": "Aurora",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 37,
+      "name": "Lapu-Lapu",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 38,
+      "name": "Vexana",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 39,
+      "name": "Roger",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 40,
+      "name": "Karrie",
+      "role": "Marksman",
+      "counters": [
+        "Gusion",
+        "Lancelot",
+        "Ling"
+      ],
+      "strong_against": [
+        "Esmeralda",
+        "Uranus",
+        "Khufra"
+      ],
+      "tags": [
+        "tank-buster",
+        "true-damage",
+        "durable"
+      ],
+      "win_rate": 0.52,
+      "ban_rate": 0.27,
+      "pick_rate": 0.13,
+      "tier": "A"
+    },
+    {
+      "id": 41,
+      "name": "Gatotkaca",
+      "role": "Tank",
+      "counters": [
+        "Karrie",
+        "Lunox"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya"
+      ],
+      "tags": [
+        "cc",
+        "durable",
+        "tank"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.15,
+      "pick_rate": 0.18,
+      "tier": "B"
+    },
+    {
+      "id": 42,
+      "name": "Harley",
+      "role": "Assassin",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 43,
+      "name": "Irithel",
+      "role": "Marksman",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 44,
+      "name": "Grock",
+      "role": "Tank",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 45,
+      "name": "Argus",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 46,
+      "name": "Odette",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 47,
+      "name": "Lancelot",
+      "role": "Assassin",
+      "counters": [
+        "Khufra",
+        "Kaja",
+        "Saber"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya",
+        "Kagura"
+      ],
+      "tags": [
+        "mobile",
+        "burst",
+        "immune"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.3,
+      "pick_rate": 0.19,
+      "tier": "A"
+    },
+    {
+      "id": 48,
+      "name": "Diggie",
+      "role": "Support",
+      "counters": [
+        "Harley",
+        "Kagura"
+      ],
+      "strong_against": [
+        "Khufra",
+        "Atlas",
+        "Franco"
+      ],
+      "tags": [
+        "anti-cc",
+        "utility",
+        "support"
+      ],
+      "win_rate": 0.53,
+      "ban_rate": 0.38,
+      "pick_rate": 0.12,
+      "tier": "S"
+    },
+    {
+      "id": 49,
+      "name": "Hylos",
+      "role": "Tank",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 50,
+      "name": "Zhask",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 51,
+      "name": "Helcurt",
+      "role": "Assassin",
+      "counters": [
+        "Khufra",
+        "Chou"
+      ],
+      "strong_against": [
+        "Kagura",
+        "Lunox",
+        "Layla"
+      ],
+      "tags": [
+        "silence",
+        "burst",
+        "stealth"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.24,
+      "pick_rate": 0.11,
+      "tier": "B"
+    },
+    {
+      "id": 52,
+      "name": "Pharsa",
+      "role": "Mage",
+      "counters": [
+        "Lancelot",
+        "Ling"
+      ],
+      "strong_against": [
+        "Tigreal",
+        "Atlas"
+      ],
+      "tags": [
+        "poke",
+        "long-range",
+        "burst"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.2,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 53,
+      "name": "Lesley",
+      "role": "Marksman",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 54,
+      "name": "Jawhead",
+      "role": "Fighter",
+      "counters": [
+        "Diggie"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya"
+      ],
+      "tags": [
+        "throw",
+        "cc",
+        "fighter"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.18,
+      "pick_rate": 0.14,
+      "tier": "B"
+    },
+    {
+      "id": 55,
+      "name": "Angela",
+      "role": "Support",
+      "counters": [
+        "Khufra",
+        "Atlas"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Lancelot"
+      ],
+      "tags": [
+        "buff",
+        "shield",
+        "support"
+      ],
+      "win_rate": 0.52,
+      "ban_rate": 0.2,
+      "pick_rate": 0.15,
+      "tier": "A"
+    },
+    {
+      "id": 56,
+      "name": "Gusion",
+      "role": "Assassin",
+      "counters": [
+        "Khufra",
+        "Kaja",
+        "Franco"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya",
+        "Lesley"
+      ],
+      "tags": [
+        "burst",
+        "mobile",
+        "squishy"
+      ],
+      "win_rate": 0.52,
+      "ban_rate": 0.35,
+      "pick_rate": 0.18,
+      "tier": "S"
+    },
+    {
+      "id": 57,
+      "name": "Valir",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 58,
+      "name": "Martis",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 59,
+      "name": "Uranus",
+      "role": "Tank",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 60,
+      "name": "Hanabi",
+      "role": "Marksman",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 61,
+      "name": "Chang'e",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 62,
+      "name": "Kaja",
+      "role": "Support",
+      "counters": [
+        "Diggie",
+        "Kadita"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Ling",
+        "Lancelot"
+      ],
+      "tags": [
+        "kidnap",
+        "cc",
+        "utility"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.18,
+      "pick_rate": 0.14,
+      "tier": "A"
+    },
+    {
+      "id": 63,
+      "name": "Selena",
+      "role": "Assassin",
+      "counters": [
+        "Diggie",
+        "Chou"
+      ],
+      "strong_against": [
+        "Fanny",
+        "Gusion"
+      ],
+      "tags": [
+        "cc",
+        "trap",
+        "burst"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.25,
+      "pick_rate": 0.13,
+      "tier": "A"
+    },
+    {
+      "id": 64,
+      "name": "Aldous",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 65,
+      "name": "Claude",
+      "role": "Marksman",
+      "counters": [
+        "Lancelot",
+        "Gusion",
+        "Helcurt"
+      ],
+      "strong_against": [
+        "Atlas",
+        "Tigreal",
+        "Gatotkaca"
+      ],
+      "tags": [
+        "aoe",
+        "scaling",
+        "mobile"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.28,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 66,
+      "name": "Vale",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 67,
+      "name": "Leomord",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 68,
+      "name": "Lunox",
+      "role": "Mage",
+      "counters": [
+        "Lancelot",
+        "Gusion"
+      ],
+      "strong_against": [
+        "Esmeralda",
+        "Atlas",
+        "Khufra"
+      ],
+      "tags": [
+        "burst",
+        "immune",
+        "sustain"
+      ],
+      "win_rate": 0.52,
+      "ban_rate": 0.33,
+      "pick_rate": 0.14,
+      "tier": "A"
+    },
+    {
+      "id": 69,
+      "name": "Hanzo",
+      "role": "Assassin",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 70,
+      "name": "Belerick",
+      "role": "Tank",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 71,
+      "name": "Kimmy",
+      "role": "Marksman",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 72,
+      "name": "Thamuz",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 73,
+      "name": "Harith",
+      "role": "Mage",
+      "counters": [
+        "Phoveus",
+        "Khufra"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Chou"
+      ],
+      "tags": [
+        "mobile",
+        "burst",
+        "shield"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.28,
+      "pick_rate": 0.14,
+      "tier": "A"
+    },
+    {
+      "id": 74,
+      "name": "Minsitthar",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 75,
+      "name": "Kadita",
+      "role": "Mage",
+      "counters": [
+        "Lancelot",
+        "Gusion"
+      ],
+      "strong_against": [
+        "Khufra",
+        "Franco"
+      ],
+      "tags": [
+        "wave",
+        "burst",
+        "mobile"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.18,
+      "pick_rate": 0.11,
+      "tier": "B"
+    },
+    {
+      "id": 76,
+      "name": "Faramis",
+      "role": "Support",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 77,
+      "name": "Badang",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 78,
+      "name": "Khufra",
+      "role": "Tank",
+      "counters": [
+        "Diggie",
+        "Kadita"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Ling",
+        "Fanny"
+      ],
+      "tags": [
+        "cc",
+        "engage",
+        "mobile-counter"
+      ],
+      "win_rate": 0.54,
+      "ban_rate": 0.4,
+      "pick_rate": 0.22,
+      "tier": "S"
+    },
+    {
+      "id": 79,
+      "name": "Granger",
+      "role": "Marksman",
+      "counters": [
+        "Lancelot",
+        "Ling",
+        "Helcurt"
+      ],
+      "strong_against": [
+        "Tigreal",
+        "Gatotkaca",
+        "Grock"
+      ],
+      "tags": [
+        "poke",
+        "burst",
+        "long-range"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.22,
+      "pick_rate": 0.16,
+      "tier": "A"
+    },
+    {
+      "id": 80,
+      "name": "Guinevere",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 81,
+      "name": "Esmeralda",
+      "role": "Tank",
+      "counters": [
+        "Karrie",
+        "Lunox",
+        "Vale"
+      ],
+      "strong_against": [
+        "Chou",
+        "Baxia",
+        "Akai"
+      ],
+      "tags": [
+        "shield",
+        "durable",
+        "sustain"
+      ],
+      "win_rate": 0.53,
+      "ban_rate": 0.31,
+      "pick_rate": 0.16,
+      "tier": "A"
+    },
+    {
+      "id": 82,
+      "name": "Terizla",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 83,
+      "name": "X.Borg",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 84,
+      "name": "Ling",
+      "role": "Assassin",
+      "counters": [
+        "Khufra",
+        "Saber",
+        "Kaja"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya",
+        "Yve"
+      ],
+      "tags": [
+        "mobile",
+        "burst",
+        "wall-jumper"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.42,
+      "pick_rate": 0.15,
+      "tier": "S"
+    },
+    {
+      "id": 85,
+      "name": "Dyrroth",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 86,
+      "name": "Lylia",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 87,
+      "name": "Baxia",
+      "role": "Tank",
+      "counters": [
+        "Diggie"
+      ],
+      "strong_against": [
+        "Esmeralda",
+        "Uranus"
+      ],
+      "tags": [
+        "anti-regen",
+        "durable",
+        "tank"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.18,
+      "pick_rate": 0.16,
+      "tier": "B"
+    },
+    {
+      "id": 88,
+      "name": "Masha",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 89,
+      "name": "Wanwan",
+      "role": "Marksman",
+      "counters": [
+        "Khufra",
+        "Franco"
+      ],
+      "strong_against": [
+        "Esmeralda",
+        "Uranus",
+        "Khufra"
+      ],
+      "tags": [
+        "immune",
+        "tank-buster",
+        "mobile"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.3,
+      "pick_rate": 0.13,
+      "tier": "A"
+    },
+    {
+      "id": 90,
+      "name": "Silvanna",
+      "role": "Fighter",
+      "counters": [
+        "Diggie",
+        "Lunox"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Ling"
+      ],
+      "tags": [
+        "cc",
+        "durable",
+        "mobile"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.2,
+      "pick_rate": 0.15,
+      "tier": "B"
+    },
+    {
+      "id": 91,
+      "name": "Cecilion",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 92,
+      "name": "Carmilla",
+      "role": "Support",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 93,
+      "name": "Atlas",
+      "role": "Tank",
+      "counters": [
+        "Diggie",
+        "Lunox"
+      ],
+      "strong_against": [
+        "Layla",
+        "Karrie",
+        "Claude"
+      ],
+      "tags": [
+        "engage",
+        "aoe",
+        "cc"
+      ],
+      "win_rate": 0.55,
+      "ban_rate": 0.32,
+      "pick_rate": 0.18,
+      "tier": "S"
+    },
+    {
+      "id": 94,
+      "name": "Popol and Kupa",
+      "role": "Marksman",
+      "counters": [
+        "Lancelot",
+        "Ling"
+      ],
+      "strong_against": [
+        "Tigreal",
+        "Atlas"
+      ],
+      "tags": [
+        "poke",
+        "utility",
+        "marksman"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.15,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 95,
+      "name": "Yu Zhong",
+      "role": "Fighter",
+      "counters": [
+        "Karrie",
+        "Lunox"
+      ],
+      "strong_against": [
+        "Chou",
+        "Jawhead"
+      ],
+      "tags": [
+        "durable",
+        "sustain",
+        "fighter"
+      ],
+      "win_rate": 0.52,
+      "ban_rate": 0.22,
+      "pick_rate": 0.17,
+      "tier": "A"
+    },
+    {
+      "id": 96,
+      "name": "Luo Yi",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 97,
+      "name": "Benedetta",
+      "role": "Assassin",
+      "counters": [
+        "Khufra",
+        "Franco"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Harith"
+      ],
+      "tags": [
+        "mobile",
+        "burst",
+        "immune"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.26,
+      "pick_rate": 0.14,
+      "tier": "A"
+    },
+    {
+      "id": 98,
+      "name": "Khaleed",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 99,
+      "name": "Barats",
+      "role": "Tank",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 100,
+      "name": "Brody",
+      "role": "Marksman",
+      "counters": [
+        "Lancelot",
+        "Ling"
+      ],
+      "strong_against": [
+        "Tigreal",
+        "Gatotkaca"
+      ],
+      "tags": [
+        "poke",
+        "burst",
+        "long-range"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.18,
+      "pick_rate": 0.14,
+      "tier": "B"
+    },
+    {
+      "id": 101,
+      "name": "Yve",
+      "role": "Mage",
+      "counters": [
+        "Lancelot",
+        "Ling",
+        "Gusion"
+      ],
+      "strong_against": [
+        "Tigreal",
+        "Atlas",
+        "Khufra"
+      ],
+      "tags": [
+        "aoe",
+        "zoning",
+        "poke"
+      ],
+      "win_rate": 0.53,
+      "ban_rate": 0.25,
+      "pick_rate": 0.13,
+      "tier": "A"
+    },
+    {
+      "id": 102,
+      "name": "Mathilda",
+      "role": "Support",
+      "counters": [
+        "Khufra",
+        "Atlas"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Lancelot"
+      ],
+      "tags": [
+        "mobile",
+        "support",
+        "shield"
+      ],
+      "win_rate": 0.53,
+      "ban_rate": 0.28,
+      "pick_rate": 0.14,
+      "tier": "A"
+    },
+    {
+      "id": 103,
+      "name": "Paquito",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 104,
+      "name": "Gloo",
+      "role": "Tank",
+      "counters": [
+        "Diggie"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Lancelot"
+      ],
+      "tags": [
+        "split",
+        "cc",
+        "tank"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.18,
+      "pick_rate": 0.14,
+      "tier": "B"
+    },
+    {
+      "id": 105,
+      "name": "Beatrix",
+      "role": "Marksman",
+      "counters": [
+        "Lancelot",
+        "Ling"
+      ],
+      "strong_against": [
+        "Tigreal",
+        "Atlas"
+      ],
+      "tags": [
+        "poke",
+        "burst",
+        "versatile"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.2,
+      "pick_rate": 0.13,
+      "tier": "A"
+    },
+    {
+      "id": 106,
+      "name": "Phoveus",
+      "role": "Fighter",
+      "counters": [
+        "Diggie",
+        "Lunox"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Ling",
+        "Fanny",
+        "Lancelot",
+        "Chou"
+      ],
+      "tags": [
+        "anti-mobile",
+        "durable",
+        "cc"
+      ],
+      "win_rate": 0.53,
+      "ban_rate": 0.3,
+      "pick_rate": 0.15,
+      "tier": "A"
+    },
+    {
+      "id": 107,
+      "name": "Natan",
+      "role": "Marksman",
+      "counters": [
+        "Lancelot",
+        "Ling"
+      ],
+      "strong_against": [
+        "Tigreal",
+        "Atlas"
+      ],
+      "tags": [
+        "poke",
+        "burst",
+        "marksman"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.18,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 108,
+      "name": "Aulus",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 109,
+      "name": "Aamon",
+      "role": "Assassin",
+      "counters": [
+        "Khufra",
+        "Kaja"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya"
+      ],
+      "tags": [
+        "stealth",
+        "burst",
+        "mobile"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.22,
+      "pick_rate": 0.11,
+      "tier": "B"
+    },
+    {
+      "id": 110,
+      "name": "Valentina",
+      "role": "Mage",
+      "counters": [
+        "Kagura",
+        "Pharsa"
+      ],
+      "strong_against": [
+        "Lunox",
+        "Atlas",
+        "Khufra"
+      ],
+      "tags": [
+        "copy",
+        "burst",
+        "mobile"
+      ],
+      "win_rate": 0.52,
+      "ban_rate": 0.3,
+      "pick_rate": 0.12,
+      "tier": "A"
+    },
+    {
+      "id": 111,
+      "name": "Edith",
+      "role": "Tank",
+      "counters": [
+        "Karrie",
+        "Lunox"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya"
+      ],
+      "tags": [
+        "durable",
+        "cc",
+        "tank"
+      ],
+      "win_rate": 0.52,
+      "ban_rate": 0.22,
+      "pick_rate": 0.14,
+      "tier": "A"
+    },
+    {
+      "id": 112,
+      "name": "Floryn",
+      "role": "Support",
+      "counters": [
+        "Helcurt"
+      ],
+      "strong_against": [
+        "Atlas",
+        "Franco"
+      ],
+      "tags": [
+        "heal",
+        "support",
+        "utility"
+      ],
+      "win_rate": 0.52,
+      "ban_rate": 0.15,
+      "pick_rate": 0.14,
+      "tier": "B"
+    },
+    {
+      "id": 113,
+      "name": "Yin",
+      "role": "Fighter",
+      "counters": [
+        "Diggie"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Lancelot"
+      ],
+      "tags": [
+        "duel",
+        "cc",
+        "fighter"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.22,
+      "pick_rate": 0.13,
+      "tier": "B"
+    },
+    {
+      "id": 114,
+      "name": "Melissa",
+      "role": "Marksman",
+      "counters": [
+        "Khufra",
+        "Franco"
+      ],
+      "strong_against": [
+        "Esmeralda",
+        "Atlas"
+      ],
+      "tags": [
+        "anti-engage",
+        "burst",
+        "marksman"
+      ],
+      "win_rate": 0.52,
+      "ban_rate": 0.22,
+      "pick_rate": 0.12,
+      "tier": "A"
+    },
+    {
+      "id": 115,
+      "name": "Xavier",
+      "role": "Mage",
+      "counters": [
+        "Lancelot",
+        "Ling"
+      ],
+      "strong_against": [
+        "Tigreal",
+        "Atlas"
+      ],
+      "tags": [
+        "poke",
+        "burst",
+        "long-range"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.2,
+      "pick_rate": 0.12,
+      "tier": "A"
+    },
+    {
+      "id": 116,
+      "name": "Julian",
+      "role": "Assassin",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 117,
+      "name": "Fredrinn",
+      "role": "Fighter",
+      "counters": [
+        "Karrie",
+        "Lunox"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya"
+      ],
+      "tags": [
+        "durable",
+        "cc",
+        "tank"
+      ],
+      "win_rate": 0.52,
+      "ban_rate": 0.2,
+      "pick_rate": 0.13,
+      "tier": "B"
+    },
+    {
+      "id": 118,
+      "name": "Joy",
+      "role": "Assassin",
+      "counters": [
+        "Khufra",
+        "Kaja"
+      ],
+      "strong_against": [
+        "Layla",
+        "Miya",
+        "Lesley"
+      ],
+      "tags": [
+        "immune",
+        "mobile",
+        "burst"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.28,
+      "pick_rate": 0.11,
+      "tier": "A"
+    },
+    {
+      "id": 119,
+      "name": "Novaria",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 120,
+      "name": "Arlott",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 121,
+      "name": "Ixia",
+      "role": "Marksman",
+      "counters": [
+        "Lancelot",
+        "Ling"
+      ],
+      "strong_against": [
+        "Tigreal",
+        "Atlas"
+      ],
+      "tags": [
+        "poke",
+        "burst",
+        "marksman"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.18,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 122,
+      "name": "Nolan",
+      "role": "Assassin",
+      "counters": [
+        "Khufra",
+        "Atlas"
+      ],
+      "strong_against": [
+        "Layla",
+        "Karrie"
+      ],
+      "tags": [
+        "burst",
+        "mobile",
+        "high-skill"
+      ],
+      "win_rate": 0.5,
+      "ban_rate": 0.25,
+      "pick_rate": 0.1,
+      "tier": "A"
+    },
+    {
+      "id": 123,
+      "name": "Cici",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 124,
+      "name": "Chip",
+      "role": "Support",
+      "counters": [
+        "Diggie"
+      ],
+      "strong_against": [
+        "Gusion",
+        "Lancelot"
+      ],
+      "tags": [
+        "portal",
+        "engage",
+        "support"
+      ],
+      "win_rate": 0.52,
+      "ban_rate": 0.22,
+      "pick_rate": 0.13,
+      "tier": "A"
+    },
+    {
+      "id": 125,
+      "name": "Zhuxin",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 126,
+      "name": "Suyou",
+      "role": "Assassin",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 127,
+      "name": "Lukas",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 128,
+      "name": "Kalea",
+      "role": "Support",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 129,
+      "name": "Zetian",
+      "role": "Mage",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 130,
+      "name": "Obsidia",
+      "role": "Marksman",
+      "counters": [
+        "Lancelot",
+        "Gusion"
+      ],
+      "strong_against": [
+        "Tigreal",
+        "Atlas"
+      ],
+      "tags": [
+        "poke",
+        "burst",
+        "marksman"
+      ],
+      "win_rate": 0.51,
+      "ban_rate": 0.15,
+      "pick_rate": 0.1,
+      "tier": "B"
+    },
+    {
+      "id": 131,
+      "name": "Sora",
+      "role": "Fighter",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    },
+    {
+      "id": 132,
+      "name": "Marcel",
+      "role": "Support",
+      "counters": [],
+      "strong_against": [],
+      "tags": [],
+      "win_rate": 0.5,
+      "ban_rate": 0.1,
+      "pick_rate": 0.12,
+      "tier": "B"
+    }
+  ]
+}
