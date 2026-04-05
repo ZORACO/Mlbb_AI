@@ -15,7 +15,7 @@ recommendations in a floating overlay.
 | CV pipeline | Single backend | Template matching → YOLO fallback per slot |
 | Confidence | Not enforced | Per-slot threshold (default 0.60), ignores low-confidence |
 | Temporal stability | None | 7-frame sliding window majority vote + lock-in mechanism |
-| Dataset | 20 heroes | **132 heroes** (full roster from your ODS file) |
+| Dataset | 20 heroes | **132 heroes** (full roster from ODS file) |
 | Hero data | Static | Auto-reloads when `heroes.json` changes on disk |
 | Scoring | 4-component flat | 6-component + **phase-aware dynamic weights** |
 | Draft phases | None | BAN → EARLY → MID → LATE (weights shift per phase) |
